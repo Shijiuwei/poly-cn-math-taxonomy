@@ -1,0 +1,5 @@
+title: "poly-cn-math-taxonomy"
+description: "Autonomous production-grade cn-math-taxonomy framework: 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
